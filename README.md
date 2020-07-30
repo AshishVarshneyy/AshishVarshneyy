@@ -38,4 +38,4 @@ Welcome to my profile! I'm a Software Engineer from India. Thanks for visiting a
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AshishVarshneyy.AshishVarshneyy)
  
-⭐️ from [@ashishvarshney](https://github.com/AshishVarshneyy)
+<!--⭐️ from [@ashishvarshney](https://github.com/AshishVarshneyy)-->
