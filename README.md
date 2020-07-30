@@ -1,7 +1,7 @@
 # Hi I'm Ashish 👋
 [![Linkedin Badge](https://img.shields.io/badge/-ashishvarshney-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ashishvarsh/)](https://www.linkedin.com/in/ashishvarsh/)
 [![Gmail Badge](https://img.shields.io/badge/-ashishvarshney-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:er.ashish.av@gmail.com)](mailto:er.ashish.av@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/-ashishvasrhney-175584.svg?&style=flat&logo=Instagram&logoColor=#E4405F&link=https://www.facebook.com/abdullahalrifatcse)](https://www.facebook.com/abdullahalrifatcse)
+[![Instagram Badge](https://img.shields.io/badge/-ashishvasrhney-175584.svg?&style=flat&logo=Instagram&logoColor=#E4405F&link=https://www.instagram.com/ashishvarshney__/)](https://www.facebook.com/abdullahalrifatcse)
 
 <!--- [![ Badge](https://img.shields.io/badge/-ashishvarshney.github.io-%231877F2.svg?&style=flat&logo=visual-studio-code&logoColor=white&link=https://abdullahalrifat.github.io/)](https://abdullahalrifat.github.io/)-->
 
