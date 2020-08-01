@@ -11,7 +11,7 @@ Welcome to my profile! I'm a Software Engineer from India. Thanks for visiting a
 
 
 
-![rifat's github stats](https://github-readme-stats.vercel.app/api?username=AshishVarshneyy&show_icons=true)
+![ashish's github stats](https://github-readme-stats.vercel.app/api?username=AshishVarshneyy&show_icons=true)
 
 
 ### Languages and Tools
